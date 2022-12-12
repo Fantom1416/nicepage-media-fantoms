@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    /* background-color: aqua; */
+}
+
+/* @media (max-width: 600px) {
+    .box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .blog {
+        font-size: 25px;
+        color: orange;
+        margin-top: 30px;
+    }
+
+    .zagalovok {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+
+    .card .rasm {
+        border: 2px solid red;
+        width: 300px;
+        height: 180px;
+    }
+    .card h1{
+        font-size: 28px;
+        margin-top: 10px;
+    }
+} */
